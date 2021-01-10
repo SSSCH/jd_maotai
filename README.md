@@ -53,7 +53,7 @@
   `pip3 install -r requirements.txt`
 
 - 如果国内安装第三方库比较慢，可以使用以下指令进行清华源加速
-  `pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/`
+  `pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/`
 
 - 如果在Linux的系统上安装时提示`Unable to find zbar shared library`解决方式如下
 
